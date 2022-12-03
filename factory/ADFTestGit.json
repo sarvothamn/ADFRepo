@@ -1,0 +1,9 @@
+{
+	"name": "ADFTestGit",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ae84115e-8afb-42cc-82aa-045ad4a5a950",
+		"tenantId": "ea0a5b4b-ebe6-40d4-bc2d-8c233ba8bfef"
+	}
+}
