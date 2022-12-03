@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "ADFTestGit"
+		},
+		"AzureGitBlobStorage_connectionString": {
+			"value": ""
 		}
 	}
 }
